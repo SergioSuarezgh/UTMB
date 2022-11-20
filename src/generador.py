@@ -90,9 +90,6 @@ def marca(lista):
         else:
             marcas.append('N/D')
     return marcas
-            
-        
-        
 
 @asincrono
 def revision_idiomas(df_column,lista_cruce):
